@@ -10,7 +10,7 @@
     "author": "fang0055",
     "license": "Apache-2.0",
     "dependencies": {
-        "cordova-ios": "^4.5.5",
+        "cordova-ios": "^8.0.1",
         "cordova-plugin-app-event": "^1.2.1",
         "cordova-plugin-device": "^2.0.2",
         "cordova-plugin-dialogs": "^2.0.1",
